@@ -1,0 +1,7 @@
+{
+    "require": {
+        "sabre/vobject": "^3.4",
+        "thecsea/simple-caldav-client": "^0.1.5",
+        "sabre/dav": "^3.0"
+    }
+}
