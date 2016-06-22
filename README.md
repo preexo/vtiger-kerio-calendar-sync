@@ -1,4 +1,4 @@
-# vtiger-kerio-calendar-sync
+# vtiger kerio caldav exchange calendar synchronization
 A little class to synchronize vtiger events towards a kerio calendar.
 We have a Kerio Mailserver which comes with a caldav server. We wanted to have our vtiger events in the kerio server, so I wrote a small adapter which synchronizes the vtiger events into the kerio calendar. Create/Update/Delete. We now have all our vtiger events in our Kerio calendar plus the original Kerio calendar events from before. 
 
